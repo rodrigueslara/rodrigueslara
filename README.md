@@ -6,7 +6,7 @@ Having recently graduated with a bachelor's degree in mathematics from the Unive
 
 Skills: SQL / Python
 
-- 🔭 I’m currently working on improving my SQL skills 
+- 🔭 I’m currently working on improving my SQL skills. Look at my progress by clicking [here](https://github.com/rodrigueslara/8-week-sql-challenge).
 
 ![Mathematics graduate](https://images.pexels.com/photos/3729557/pexels-photo-3729557.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
